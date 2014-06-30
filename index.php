@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
- <?php phpinfo(); ?>
+<!-- <?php phpinfo(); ?> -->
  </body>
 </html>
